@@ -1,7 +1,7 @@
 import '../styles/globals.css'
-import { createGlobalStyle } from 'styled-components'
-import Head from 'next/head'
 import type { AppProps } from 'next/app'
+import Head from 'next/head'
+import { createGlobalStyle } from 'styled-components'
 
 // Global styles
 const GlobalStyle = createGlobalStyle`
